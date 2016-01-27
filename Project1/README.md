@@ -1,3 +1,6 @@
+This is a testing word count project retrieved from
+https://github.com/lintool/bespin/blob/master/src/main/java/io/bespin/java/mapreduce/wordcount/WordCount.java
+
 First run Maven to build the package by executing the command
 
 ```
